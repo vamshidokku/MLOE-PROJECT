@@ -1,0 +1,8 @@
+*.pt
+*.pth
+*.zip
+*.tar.gz
+__pycache__/
+*.pyc
+processed_data/*/cam0_images/
+experiments/**/*.pth
